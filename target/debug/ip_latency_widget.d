@@ -1,0 +1,1 @@
+D:\MY\ FILES\Shourav\ Files\gitrepos\App\ using\ rust\target\debug\ip_latency_widget.exe: D:\MY\ FILES\Shourav\ Files\gitrepos\App\ using\ rust\shourav.ico D:\MY\ FILES\Shourav\ Files\gitrepos\App\ using\ rust\src\main.rs
