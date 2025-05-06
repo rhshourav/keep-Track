@@ -1,0 +1,22 @@
+[package]
+name = "ip_latency_widget"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = { version = "0.24.1", features = ["default"] }
+egui = "0.24.1"
+egui_plot = "0.24.1"
+tokio = { version = "1.32.0", features = ["full"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+chrono = { version = "0.4", features = ["serde"] }
+anyhow = "1.0"
+rfd = "0.11.4"
+notify-rust = "4.8.0"
+csv = "1.2"
+rodio = "0.17"
+ipnetwork = "0.20"
+maxminddb = "0.23"
+winapi = { version = "0.3.9", features = ["winuser", "iphlpapi", "iptypes", "winerror"] }
+image = "0.24" 

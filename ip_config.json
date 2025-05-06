@@ -1,0 +1,82 @@
+{
+  "ips": [
+    {
+      "address": "192.168.18.254",
+      "name": "",
+      "description": "",
+      "category": "",
+      "enabled": true,
+      "timeout": 1000,
+      "interface": null,
+      "alerts": {
+        "enabled": true,
+        "threshold": 100.0,
+        "notify_on_recovery": true,
+        "sound_enabled": false,
+        "sound_file": null
+      },
+      "packet_size": 56,
+      "track_since": "2025-05-06T16:52:39.483951100+06:00"
+    },
+    {
+      "address": "192.168.18.254",
+      "name": "gateway",
+      "description": "",
+      "category": "",
+      "enabled": true,
+      "timeout": 1000,
+      "interface": null,
+      "alerts": {
+        "enabled": true,
+        "threshold": 100.0,
+        "notify_on_recovery": true,
+        "sound_enabled": false,
+        "sound_file": null
+      },
+      "packet_size": 56,
+      "track_since": "2025-05-06T17:26:47.888118500+06:00"
+    },
+    {
+      "address": "192.168.18.254",
+      "name": "",
+      "description": "",
+      "category": "",
+      "enabled": true,
+      "timeout": 1000,
+      "interface": null,
+      "alerts": {
+        "enabled": true,
+        "threshold": 100.0,
+        "notify_on_recovery": true,
+        "sound_enabled": false,
+        "sound_file": null
+      },
+      "packet_size": 56,
+      "track_since": "2025-05-06T18:56:32.112633800+06:00"
+    },
+    {
+      "address": "192.168.18.254",
+      "name": "",
+      "description": "",
+      "category": "",
+      "enabled": true,
+      "timeout": 1000,
+      "interface": null,
+      "alerts": {
+        "enabled": true,
+        "threshold": 100.0,
+        "notify_on_recovery": true,
+        "sound_enabled": false,
+        "sound_file": null
+      },
+      "packet_size": 56,
+      "track_since": "2025-05-06T19:06:41.207469500+06:00"
+    }
+  ],
+  "auto_update": false,
+  "update_interval": 0,
+  "show_graphs": false,
+  "theme": "System",
+  "notifications_enabled": false,
+  "geo_db_path": null
+}
